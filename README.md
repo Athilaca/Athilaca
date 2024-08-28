@@ -8,7 +8,7 @@
 
 - 📫 How to reach me *athilaca26@gmail.com*
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1PottIXMMsqYrbkPmehgt9k05idDT_CUd/view?usp=sharing)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1vV_OtrHd05IHic2mORRlJbNy5Hn-ZRtr/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/athilaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athilaca" height="30" width="40" /></a>
