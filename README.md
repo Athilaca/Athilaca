@@ -1,6 +1,6 @@
-q<h1 align="center">Hi 👋, I'm Athila c.a</h1>
+<h1 align="center">Hi 👋, I'm Athila c.a</h1>
 <h3 align="center">A passionate python developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/kwRZjwSCXo7rQWDq5">
+<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/kwRZjwSCXo7rQWDq5](https://images.app.goo.gl/CAyLuJjEKgfHFeCt9)">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athilaca&color=brightgreen)
 
